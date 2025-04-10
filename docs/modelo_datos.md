@@ -66,7 +66,7 @@ Relación muchos-a-muchos entre `pedidos` y `productos`.
 
 ![Diagrama del modelo de datos](diagrama_modelo_datos.png)
 
-> Este diagrama se encuentra en `docs/diagrama_modelo_datos.png`.
+> ToDo: Este diagrama se incluirá en `docs/diagrama_modelo_datos.png`.
 
 ---
 
