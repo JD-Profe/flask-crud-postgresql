@@ -64,9 +64,9 @@ Relación muchos-a-muchos entre `pedidos` y `productos`.
 
 ## 🖼️ Diagrama visual
 
-![Diagrama del modelo de datos](db_model.png)
+![Diagrama del modelo de datos](diagrama_modelo_datos.png)
 
-> Este diagrama se encuentra en `docs/db_model.png`.
+> Este diagrama se encuentra en `docs/diagrama_modelo_datos.png`.
 
 ---
 
